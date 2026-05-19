@@ -1,5 +1,5 @@
 # 👋 Hello readers, Tin's here
-![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Justin%20Tran&fontSize=90&animation=twinkling)
+![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tin%20Tran&fontSize=90&animation=twinkling)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ductin2197&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
