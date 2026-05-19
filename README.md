@@ -3,7 +3,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ductin2197&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
 ### 🎯 About Me
 Là người có hứng thú khám phá các bài toán phức tạp bằng logic của dữ liệu kết hợp với việc hướng đến trải nghiệm người dùng. 
 
@@ -35,7 +34,7 @@ Là người có hứng thú khám phá các bài toán phức tạp bằng logi
 ---
 
 ### 📊 Chỉ số hoạt động
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ductin2197&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ductin2197&theme=tokyonight" alt="GitHub Streak" height="160px"/>
-</p>
+
+| Thống kê tổng quan | Chuỗi hoạt động (Streak) |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=ductin2197&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="190px"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ductin2197&theme=tokyonight" alt="GitHub Streak" height="190px"/> |
