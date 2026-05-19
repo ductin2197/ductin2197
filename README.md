@@ -1,14 +1,14 @@
 # 👋 Hello readers, Tin's here
-
+![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Justin%20Tran&fontSize=90&animation=twinkling)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ductin2197&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ### 🎯 About Me
-Em là người có hứng thú khám phá các bài toán phức tạp bằng logic của dữ liệu kết hợp với việc hướng đến trải nghiệm người dùng. 
+Là người có hứng thú khám phá các bài toán phức tạp bằng logic của dữ liệu kết hợp với việc hướng đến trải nghiệm người dùng. 
 
-* 🧑‍💻 **Background:** Thực tập sinh kiểm toán tại Big 4 (E&Y) & Xử lý các giao dịch trong năm tài chính
-* 🔭 **Current Focus:** Nâng cao tư duy Product Management, domain knowledge & xử lý dữ liệu lớn (Big Data).
+* 🧑‍💻 **Background:** Thực tập sinh kiểm toán tại Big 4 (E&Y) & Xử lý các giao dịch trong năm tài chính.
+* 🔭 **Current Focus:** Nâng cao tư duy Product Management, Domain Knowledge & xử lý dữ liệu lớn (Big Data).
 
 ---
 
@@ -30,4 +30,12 @@ Em là người có hứng thú khám phá các bài toán phức tạp bằng l
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/đức-tín-a01a5a296" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
+### 📊 Chỉ số hoạt động
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ductin2197&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ductin2197&theme=tokyonight" alt="GitHub Streak" height="160px"/>
 </p>
