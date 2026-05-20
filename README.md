@@ -23,7 +23,7 @@ Là người có hứng thú khám phá các bài toán phức tạp bằng logi
 ---
 
 ### 🚀 Featured Projects
-* 🛒 **[Global Retail Sales Analysis 2011](https://github.com/ductin2197/MY_PROJECT):** Dự án xử lý **500,000+ dòng dữ liệu** bằng SQL nâng cao và trực quan hóa Insights tương tác trên Tableau Public.
+* 🛒 **[Global Retail Sales Analysis 2011](https://github.com/ductin2197/MY_PROJECT):** Dự án xử lý **500,000+ dòng dữ liệu** bằng SQL và trực quan hóa Insights tương tác trên Tableau.
 
 ---
 
