@@ -5,7 +5,7 @@
 </p>
 
 ### 🎯 About Me
-Là người có hứng thú khám phá các bài toán phức tạp bằng logic của dữ liệu kết hợp với việc hướng đến trải nghiệm người dùng. 
+Là người có hứng thú khám phá các bài toán hướng đến trải nghiệm người dùng bằng logic của dữ liệu.
 
 * 🧑‍💻 **Background:** Thực tập sinh kiểm toán tại Big 4 (E&Y) & Xử lý các giao dịch trong năm tài chính.
 * 🔭 **Current Focus:** Nâng cao tư duy Product Management, Domain Knowledge & xử lý dữ liệu lớn (Big Data).
