@@ -23,8 +23,8 @@ Là người có hứng thú khám phá các bài toán phức tạp bằng logi
 ---
 
 ### 🚀 Featured Projects
-* 🛒 **[Global Retail Sales Analysis 2011](https://github.com/ductin2197/MY_PROJECT):** Dự án xử lý **500,000+ dòng dữ liệu** bằng SQL và trực quan hóa Insights tương tác trên Tableau.
-
+* 🛒 **[Global Retail Sales Analysis 2011](https://github.com/ductin2197/Global_Retail_Sales_2011_Analysis):** Dự án xử lý **500,000+ dòng dữ liệu** bằng SQL và trực quan hóa Insights tương tác trên Tableau.
+* 🐍 **[Credit Scoring Engine ](https://github.com/ductin2197/PYTHON_CreditScoringModel):** Dự án xây dựng mô hình chấm điểm tín dụng dựa trên dữ liệu phi tài chính và trực quan hóa trên Python.
 ---
 
 ### 🤝 Connect with me
