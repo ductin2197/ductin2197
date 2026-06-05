@@ -1,7 +1,6 @@
 # 👋 Hello readers, Tin's here
 ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tin%20Tran&fontSize=90&animation=twinkling)
 
-
 ### 🎯 About Me
 Là người có hứng thú khám phá các bài toán hướng đến trải nghiệm người dùng bằng logic của dữ liệu.
 
