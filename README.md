@@ -1,8 +1,6 @@
 # 👋 Hello readers, Tin's here
 ![](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tin%20Tran&fontSize=90&animation=twinkling)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ductin2197&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+
 
 ### 🎯 About Me
 Là người có hứng thú khám phá các bài toán hướng đến trải nghiệm người dùng bằng logic của dữ liệu.
