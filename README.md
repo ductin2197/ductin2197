@@ -5,7 +5,7 @@
 Là người có hứng thú khám phá các bài toán hướng đến trải nghiệm người dùng bằng logic của dữ liệu.
 
 * 🧑‍💻 **Background:** Thực tập sinh kiểm toán tại Big 4 (Ernst & Young) & Xử lý các giao dịch trong năm tài chính.
-* 🔭 **Current Focus:** Nâng cao tư duy Business Management, Domain Knowledge & xử lý dữ liệu lớn (Big Data).
+* 🔭 **Current Focus:** Nâng cao tư duy Business Management, Domain Knowledge & xử lý dữ liệu lớn (Big Data). Bình dân hoá sản phẩm tài chính đến đại chúng người dùng Việt Nam. 
 
 ---
 
